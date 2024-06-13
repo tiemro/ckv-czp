@@ -1,0 +1,14 @@
+#type-header-1 {
+    float: left;
+
+}
+#type-header-2{
+    
+}
+#type-header-3{
+    float: right;
+    padding: 50px;
+}
+.type-header{
+    color: white;
+}
