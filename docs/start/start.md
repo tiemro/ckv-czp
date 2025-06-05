@@ -12,17 +12,17 @@ Ik heb verschillende soorten foto's gemaakt. Van portretten tot foto's met duide
 
 
 <figure markdown="span">
-  ![brug](./images/brug_oostenrijk.jpg)
+  ![brug](../images/brug_oostenrijk.jpg)
   <figcaption>18-08-2023</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![water](./images/water.jpg)
+  ![water](../images/water.jpg)
   <figcaption>18-08-2023</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![dorp](./images/dorp.jpg)
+  ![dorp](../images/dorp.jpg)
   <figcaption>09-08-2022</figcaption>
 </figure>
 
@@ -48,12 +48,12 @@ Voorbeeld: Een kasteel is heel oud en heeft ook nog een leuk verhaal + veel obje
 We zijn ook naar oude dorpjes geweest die te maken hebben met de tweede wereld oorlog omdat wij als gezin daar een grootte intresse voor hebben. Zoals dit dorpje in Frankrijk (Oradour Sur Glane) die door de Nazi's tot de grond is platgebrand en waarvan de bewoners vermoord zijn:
 
 <figure markdown="span">
-  ![](./images/oradour_1.jpeg)
+  ![](../images/oradour_1.jpeg)
   <figcaption>09-08-2022</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![](./images/oradour_2.jpeg)
+  ![](../images/oradour_2.jpeg)
   <figcaption>09-08-2022</figcaption>
 </figure>
 
@@ -71,8 +71,7 @@ Het meeste muziek dat ik mee krijg is de minder dan een minuut stukjes van tikto
 Theater
 -------
 
-Ik ben nog nooit naar een theater geweest. In tegenstelling to andere basisscholen had mijn basisschool geen musical maar een eindfilm. Daar ben ik eerlijk gezegd wel blij mee omdat ik een hekel heb aan in de spotlight staan. In plaats daarvan was alles van te voren opgenomen waardoor ik me daar wel beter bij voelde. Ik had ook een leuke rol dus dat was ook wel prima. Dat was mijn
-
+Ik ben nog nooit naar een theater geweest. In tegenstelling tot andere basisscholen had mijn basisschool geen musical maar een eindfilm. Daar ben ik eerlijk gezegd wel blij mee omdat ik een hekel heb aan in de spotlight staan. In plaats daarvan was alles van te voren opgenomen waardoor ik me daar wel beter bij voelde. Ik had ook een leuke rol dus dat was ook wel prima. Dat was mijn ervaring met theater
 Beeldende kunst & Design
 ------------------------
 

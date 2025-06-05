@@ -5,7 +5,7 @@
 
 -   :fontawesome-solid-circle-play:{ .lg .middle } __Start__
 
-    [:octicons-arrow-right-24: Het begin](./start.md)
+    [:octicons-arrow-right-24: Het begin](./start/start.md)
 
 -   :fontawesome-solid-circle-pause:{ .lg .middle } __Midden__
 
