@@ -1,0 +1,1 @@
+CKV heeft mij dingen geleerd die ik nooit uit mezelf had onderzocht. Dat betekent niet dat ik het per se leuk vond, maar het was wel goed denk ik. Samenwerking is nooit mijn sterkste punt geweest, maar ik denk wel dat ik dat nu beter kan dan eerst.
