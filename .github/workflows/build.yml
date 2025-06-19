@@ -34,7 +34,7 @@ jobs:
       - name: Configure Git Credentials
         run: |
           git config user.name "Automatic Documentation Deployer 3000 [Bot]"
-          git config user.email 41898282"Automatic Documentation Deployer 3000 [Bot]"@123632.gomaruscollege.nl
+          git config user.email 41898282+"Automatic Documentation Deployer 3000 [Bot]"@123632.gomaruscollege.nl
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
