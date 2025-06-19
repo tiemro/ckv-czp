@@ -14,7 +14,7 @@ nav:
     - Betekenis: 'midden/betekenis/betekenis.md'
     - Vervolg: 'midden/vervolg/vervolg.md'
 - Eind:
-    - 'eind/index.md'
+    - CKV Cultureel Zelfportret Eind: 'eind/index.md'
     - Verwachting: 'eind/verwachting/verwachting.md'
     - Betekenis: 'eind/betekenis/betekenis.md'
     - Vervolg: 'eind/vervolg/vervolg.md'
@@ -61,7 +61,7 @@ extra:
 
 plugins:
   - search:
-      enabled: false
+      enabled: true
   
 
 markdown_extensions: 
